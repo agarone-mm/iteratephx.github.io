@@ -7,7 +7,7 @@ module.exports = function (grunt) {
           urls: ['http://localhost:8000'],
           deepth: 1,
           connection: 'cable',
-          resultBaseDir: 'sitespeed.out',
+          resultBaseDir: 'sitespeedio.out',
           verbose: true
         }
       }
